@@ -1,0 +1,3 @@
+name: ES359-t3
+main: com.tenjava.entries.ES359.t3.TenJava
+version: '${project.version}'
